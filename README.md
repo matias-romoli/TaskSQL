@@ -1,1 +1,1 @@
-Herramientas y medologia: POO (Programación orientada a objetos), con la implementación de ciertos patrones cómo Factory. También, Logger y MySQL.
+Herramientas y metodología: Node JS, Express, POO (Programación orientada a objetos), con la implementación de ciertos patrones cómo Factory. También, Logger y MySQL.
