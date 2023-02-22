@@ -1,6 +1,6 @@
 Herramientas y metodología: Node JS, Express, POO (Programación orientada a objetos), con la implementación de ciertos patrones cómo Factory. También, Logger y MySQL.
 
-## Query
+## Query and request
 
   + GET
     * "*/list*": Muestra todas las tareas alojadas en MySQL // Shows all tasks hosted on MySQL.
